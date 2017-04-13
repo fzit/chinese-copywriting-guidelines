@@ -1,3 +1,4 @@
 - [中文文案排版指北（简体中文版）](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 - [English to Chinese 翻译规范](https://github.com/react-guide/ETC)
+- [译文排版规则指北](https://github.com/xitu/gold-miner/wiki/%E8%AF%91%E6%96%87%E6%8E%92%E7%89%88%E8%A7%84%E5%88%99%E6%8C%87%E5%8C%97)
